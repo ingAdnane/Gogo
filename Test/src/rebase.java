@@ -6,6 +6,7 @@ public class rebase {
 		
 		System.out.println("rebase1");
 	    System.out.println("rebase2");
+	    System.out.println("rebase3");
 
 	 
 	}
